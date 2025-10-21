@@ -15,6 +15,7 @@ argument is input of function
 '''
 print(1,2,6,'hello') #each element is separated by a space in the terminal
 print(1,2,6,'hello',sep='-') # separated by -
+print(1,2,6,'hello',sep='=')
 
 
 # data type
